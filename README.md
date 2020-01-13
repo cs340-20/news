@@ -1,3 +1,9 @@
+# Lecture recordings/Zoom
+
+   - [past recordings](https://drive.google.com/drive/folders/1yv-br1BFPFKk24pl9awHqLIWIbBuvrQO?usp=sharing)
+   - Zoom bridge 276-644-8345
+
+
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
