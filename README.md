@@ -1,3 +1,8 @@
+
+# Class 4 (Jan 15)
+  * Finish: What is [software engineering?](https://github.com/cs340-20/lectures/blob/master/introduction.pdf)
+  * [Class project](https://github.com/cs340-20/lectures/blob/master/project_intro.pdf)
+
 # Class 3 (Jan 13)
   * Lecture: What is [software engineering?](https://github.com/cs340-20/lectures/blob/master/introduction.pdf)
 
@@ -7,6 +12,11 @@
 
 # Class 1 (Jan 8)
   * Do the [first task](https://github.com/cs340-20/news/blob/master/Preliminary.md)
+
+# Lecture recordings/Zoom
+
+   - [past recordings](https://drive.google.com/drive/folders/1yv-br1BFPFKk24pl9awHqLIWIbBuvrQO?usp=sharing)
+   - Zoom bridge 276-644-8345
 
 
 # Syllabus for "Software Engineering"
