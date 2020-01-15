@@ -1,3 +1,14 @@
+# Class 3 (Jan 13)
+  * Lecture: What is [software engineering?](https://github.com/cs340-20/lectures/blob/master/introduction.pdf)
+
+# Class 2 (Jan 10)
+  * Do the [second task](https://github.com/cs340-20/news/blob/master/Preliminary.md)
+  * Read the [lecture notes on git](https://github.com/cs340-20/lectures/blob/master/version_control.pdf)
+
+# Class 1 (Jan 8)
+  * Do the [first task](https://github.com/cs340-20/news/blob/master/Preliminary.md)
+
+
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
@@ -11,9 +22,9 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/CS340-20/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/cs340-20/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through [issues](https://github.com/CS340-20/news/issues)
+1. Look through [issues](https://github.com/cs340-20/news/issues)
 1. Post the question as an issue.
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
@@ -38,7 +49,7 @@ All the assignments and projects for this class will use github -
 The work will have to be described via issues on github that
 will be used to define and track progress. 
 
-The resulting program will be deployed via docker container
+The resulting program (or its component) will be deployed via docker container
 to google cloud.
 
 Each student will submit at least one contribution to an open source
