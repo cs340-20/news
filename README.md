@@ -1,3 +1,7 @@
+# Class Jan 15
+  * Finish: What is [software engineering?](https://github.com/cs340-20/lectures/blob/master/introduction.pdf)
+  * [Class project](https://github.com/cs340-20/lectures/blob/master/project_intro.pdf)
+
 # Lecture recordings/Zoom
 
    - [past recordings](https://drive.google.com/drive/folders/1yv-br1BFPFKk24pl9awHqLIWIbBuvrQO?usp=sharing)
