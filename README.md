@@ -1,3 +1,13 @@
+# Class 6 (Jan 22)
+   * Teams are writting project proposal
+      - Create a repo under cs340-20 for your project
+      - Create a team under https://github.com/orgs/cs340-20/teams/students/teams for your project
+      - Add members of your project to the project team
+      - Make project team admin collaborator for your project repo, e.g., for team X go to https://github.com/cs340-20/X/settings/collaboration and add the relevant team
+      - Project propsals (full) should be placed in https://github.com/cs340-20/YourProjectName/proposal.md
+
+# Class 5 (Jan 17)
+  * Present teasers
 
 # Class 4 (Jan 15)
   * Finish: What is [software engineering?](https://github.com/cs340-20/lectures/blob/master/introduction.pdf)
