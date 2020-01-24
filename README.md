@@ -1,3 +1,13 @@
+# Class 8 (Jan 25)
+   * Practice weekly scrum: each team answers the following three questions:
+     -   What did you do last week?
+     -  What will you do this week?
+     -  Are there any impediments in your way?
+   * Software process lecture
+
+# Class 7 (Jan 24)
+   * Continue writting project proposal
+   
 # Class 6 (Jan 22)
    * Teams are writting project proposal
       - Create a repo under cs340-20 for your project
