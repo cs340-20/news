@@ -1,4 +1,4 @@
-# Class 8 (Jan 25)
+# Class 8 (Jan 27)
    * Practice weekly scrum: each team answers the following three questions:
      -   What did you do last week?
      -  What will you do this week?
