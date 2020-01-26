@@ -7,6 +7,8 @@
 
 # Class 7 (Jan 24)
    * Continue writting project proposal
+     [Please see the instructions](https://github.com/cs340-20/teasers/blob/master/project_proposal.pdf)
+   
    
 # Class 6 (Jan 22)
    * Teams are writting project proposal
