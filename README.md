@@ -3,7 +3,7 @@
      -   What did you do last week?
      -  What will you do this week?
      -  Are there any impediments in your way?
-   * Software process lecture
+   * [Software process lecture](https://github.com/cs340-20/lectures/blob/master/process.pdf)
 
 # Class 7 (Jan 24)
    * Continue writting project proposal
