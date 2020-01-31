@@ -1,3 +1,10 @@
+# Class 10 (Jan 31)
+   * Introduction to cloud computing: containers, virtual machines, GCP
+
+# Class 9 (Jan 29)
+   * Practicing SCRUM/Presenting project progress/plans
+
+
 # Class 8 (Jan 27)
    * Practice weekly scrum: each team answers the following three questions:
      -   What did you do last week?
