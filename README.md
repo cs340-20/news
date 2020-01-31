@@ -1,3 +1,12 @@
+# Class  (Feb 14) 
+    * GCP assignment due 
+
+# Classs 12
+     * Work on the project (no lecture/professor) 
+
+# Class 11
+      * Questions on GCP
+  
 # Class 10 (Jan 31)
    * Introduction to cloud computing: containers, virtual machines, GCP
 
