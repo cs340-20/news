@@ -1,14 +1,14 @@
 # Class  (Feb 14) 
-    * GCP assignment due 
+   * GCP assignment due 
 
 # Classs 12
-     * Work on the project (no lecture/professor) 
+   * Work on the project (no lecture/professor) 
 
 # Class 11
-      * Questions on GCP
+   * Questions on GCP
   
 # Class 10 (Jan 31)
-   * Introduction to cloud computing: containers, virtual machines, GCP
+   * (Introduction to cloud computing: containers, virtual machines, GCP)[https://github.com/cs340-20/lectures/blob/master/magic.pdf)
 
 # Class 9 (Jan 29)
    * Practicing SCRUM/Presenting project progress/plans
