@@ -1,12 +1,20 @@
 # Class  (Feb 14) 
    * GCP assignment due 
+   * End of Sprint 1
+
+
+# Class  (Feb 10) 
+   * Finish the lecture on SW architecture
+
+# Class  (Feb 7) 
    * [Lecture on software architecture](https://github.com/cs340-20/lectures/blob/master/software_architecture.pdf)
 
-# Classs 12
+# Classs 12 (Feb 5)
    * Work on the project (no lecture/professor) 
 
-# Class 11
-   * Questions on GCP
+# Class 11 (Feb 3)
+   * [Questions on GCP](https://cloud.google.com/container-optimized-os/docs/how-to/create-configure-instance)
+   * [CI on Dockerhub](https://github.com/cs340-20/lectures/blob/master/Docker.md)
   
 # Class 10 (Jan 31)
    * (Introduction to cloud computing: containers, virtual machines, GCP)[https://github.com/cs340-20/lectures/blob/master/magic.pdf)
