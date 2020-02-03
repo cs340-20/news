@@ -1,5 +1,6 @@
 # Class  (Feb 14) 
    * GCP assignment due 
+   * [Lecture on software architecture](https://github.com/cs340-20/lectures/blob/master/software_architecture.pdf)
 
 # Classs 12
    * Work on the project (no lecture/professor) 
