@@ -2,6 +2,8 @@
    * GCP assignment due 
    * End of Sprint 1
 
+# Class  (Feb 12) 
+   * Open Source Software Development
 
 # Class  (Feb 10) 
    * Finish the lecture on SW architecture
