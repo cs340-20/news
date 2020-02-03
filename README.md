@@ -3,7 +3,7 @@
    * End of Sprint 1
 
 # Class  (Feb 12) 
-   * Open Source Software Development
+   * [Open Source Software Development](https://github.com/cs340-20/lectures/blob/master/HowToContributeToOSS.pdf)
 
 # Class  (Feb 10) 
    * Finish the lecture on SW architecture
