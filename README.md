@@ -1,3 +1,13 @@
+# Class  (Feb 21) 
+   * Work on the project 
+   * Lecture on validation and verification
+
+# Class  (Feb 19) 
+   * Work on the project (instructor will not be present)
+   
+# Class  (Feb 17) 
+   * Work on the project 
+   
 # Class  (Feb 14) 
    * GCP assignment due 
    * End of Sprint 1
