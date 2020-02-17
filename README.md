@@ -6,7 +6,8 @@
    * Work on the project (instructor will not be present)
    
 # Class  (Feb 17) 
-   * Work on the project 
+   * Work on the project
+   * Last opportunity to fix gcp: [current results](https://github.com/cs340-20/students/blob/master/results.md)
    
 # Class  (Feb 14) 
    * GCP assignment due 
