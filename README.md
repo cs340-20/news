@@ -1,6 +1,9 @@
+# Class  (Feb 24) 
+   * Continue lecture on [validation and verification](https://github.com/cs340-20/lectures/blob/master/validation_and_verification.pdf)
+
 # Class  (Feb 21) 
    * Work on the project 
-   * Lecture on validation and verification
+   * Lecture on [validation and verification](https://github.com/cs340-20/lectures/blob/master/validation_and_verification.pdf)
 
 # Class  (Feb 19) 
    * Work on the project (instructor will not be present)
