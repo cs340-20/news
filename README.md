@@ -1,3 +1,31 @@
+# Class  (Mar 13) 
+   * Work on final project  (status report due)
+
+# Class  (Mar 11) 
+   * Work on final project  (status report)
+
+# Class  (Mar 9) 
+   * Work on final project  (status report)
+
+# Class  (Mar 6) 
+   * Work on final project  (status report)
+
+# Class  (Mar 4) 
+   * Work on final project  (status report)
+
+# Class  (Mar 2) 
+   * Work on final project (status report)
+   * Please use TA office hours or class time or schedule (at least 15min) separately with TA
+   *  [Minimum viable system demo/project Status report instructions](https://github.com/cs340-20/lectures/blob/master/status_report.pdf)
+      - Customer Value (5 points)
+      - Technology (15 points)
+      - Team (10 points)
+      - Project Management (10 points)
+      - Reflection (10 points)
+      - Tone, Grammar,Formatting, Readability (10 points)
+      - Demo (30 points) - demo has to match requirements on what is to be implemented in the status report
+
+
 # Class  (Feb 26) 
    * Continue lecture on [validation and verification](https://github.com/cs340-20/lectures/blob/master/validation_and_verification.pdf)
    
