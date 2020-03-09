@@ -1,6 +1,11 @@
 # Class  (Mar 13) 
    * Work on final project  (status report due)
-
+   * Please schedule the demo this WEEK by emailing all TAs
+   * If you prefer, you can use zoom to work on the project/present
+   * You are welcome to present during the class on Fri as well 
+   * STATUS.md is due Friday
+   
+   
 # Class  (Mar 11) 
    * Work on final project  (status report)
 
