@@ -1,13 +1,19 @@
 # Class  (Mar 13) 
    * Work on final project  (status report due)
    * Please schedule the demo this WEEK by emailing all TAs snorem1@vols.utk.edu, dkennard@vols.utk.edu, pxie1@vols.utk.edu
-   * If you prefer, you can use zoom to work on the project/present
+   * If you prefer, you can use zoom to present https://tennessee.zoom.us/j/2766448345
+   * You can also work on your project via zoom, but please use a project-specific number 
    * You are welcome to present during the class on Fri as well 
    * STATUS.md is due Friday
    
    
 # Class  (Mar 11) 
    * Work on final project  (status report)
+   * In-class demos accomplished for 
+      - ModusVivendi
+      - Whirl
+      - Personnel-Management
+      - CivilizationSimulator 
 
 # Class  (Mar 9) 
    * Work on final project  (status report)
