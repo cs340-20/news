@@ -5,7 +5,11 @@
    * You can also work on your project via zoom, but please use a project-specific number 
    * You are welcome to present during the class on Fri as well 
    * STATUS.md is due Friday
-   
+   * In-class demos accomplished for 
+      - KnitkKnack
+      - tasukete
+      - AutoBot
+      - PhysicalQt 
    
 # Class  (Mar 11) 
    * Work on final project  (status report)
