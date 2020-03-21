@@ -1,3 +1,9 @@
+# Class  (Mar 23) 
+   * Work on final project
+   * Work on OSS contribution
+   * Please use ZOOM https://tennessee.zoom.us/j/2766448345 if you have any questions
+   * Each team, please create a zoom link for your project deliberations
+
 # Class  (Mar 13) 
    * Work on final project  (status report due)
    * Please schedule the demo this WEEK by emailing all TAs snorem1@vols.utk.edu, dkennard@vols.utk.edu, pxie1@vols.utk.edu
