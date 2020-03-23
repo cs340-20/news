@@ -61,7 +61,9 @@
 # Class  (Mar 25) 
    * Work on final project
    * Work on OSS contribution
-
+   * Please have a project milestone with due date and an [issue assigned to you](https://github.com/cs340-20/news/blob/master/oissues.md) 
+   * Please finish sprint 1 for OSS and add "Ready" label
+   
 # Class  (Mar 23) 
    * Work on final project
    * Milestone 1: Submit OSS project selection criteria due
