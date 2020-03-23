@@ -1,5 +1,70 @@
+
+
+# Class (Apr 24)
+   * Work on final project
+   * Work on OSS contribution
+   * Milestone 6: Make and document your contribution is due
+   
+# Class (Apr 22)
+   * Work on final project
+   * Work on OSS contribution
+
+# Class (Apr 20)
+   * Work on final project
+   * Work on OSS contribution
+   
+# Class (Apr 17)
+   * Work on final project
+   * Work on OSS contribution
+   * Milestone 5: Select the first task is due
+   
+# Class (Apr 15)
+   * Work on final project
+   * Work on OSS contribution
+
+# Class (Apr 13)
+   * Work on final project
+   * Work on OSS contribution   
+   
+# Class (Apr 10)
+   * Work on final project
+   * Work on OSS contribution
+   * Milestone 4: Develop a plan of contribution is due
+   
+# Class (Apr 8)
+   * Work on final project
+   * Work on OSS contribution
+
+# Class (Apr 6)
+   * Work on final project
+   * Work on OSS contribution
+
+# Class (Apr 3)
+   * Work on final project
+   * Work on OSS contribution
+   * Milestone 3: Describe OSS project is due
+
+# Class  (Apr 1) 
+   * Work on final project
+   * Work on OSS contribution
+
+# Class  (Mar 30) 
+   * Work on final project
+   * Work on OSS contribution
+
+# Class  (Mar 27) 
+   * Work on final project
+   * Work on OSS contribution
+   * Milestone 2: Select OSS project
+   
+
+# Class  (Mar 25) 
+   * Work on final project
+   * Work on OSS contribution
+
 # Class  (Mar 23) 
    * Work on final project
+   * Milestone 1: Submit OSS project selection criteria due
    * Work on OSS contribution
    * Please use ZOOM https://tennessee.zoom.us/j/2766448345 if you have any questions
    * Each team, please create a zoom link for your project deliberations
