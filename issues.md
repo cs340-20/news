@@ -1,10 +1,10 @@
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
-|cs340-20/ModusVivendi|13|open|2020-03-18T00:05:09Z||None|,dependencies|Bump minimist from 1.2.0 to 1.2.5
-|cs340-20/ModusVivendi|12|open|2020-03-09T13:22:19Z|Jneville0815|2020-03-16T07:00:00Z||integrate database
-|cs340-20/ModusVivendi|11|open|2020-03-09T13:22:35Z|Kishan1029|2020-03-16T07:00:00Z||look into mongodb to store users
-|cs340-20/ModusVivendi|10|open|2020-03-09T13:22:45Z|clampe1|2020-03-16T07:00:00Z||improve front-end design
-|cs340-20/ModusVivendi|9|open|2020-03-09T13:22:57Z|DustinCraig|2020-03-16T07:00:00Z||get authentication system working
+|cs340-20/ModusVivendi|13|closed|2020-03-25T14:48:44Z||None|,dependencies|Bump minimist from 1.2.0 to 1.2.5
+|cs340-20/ModusVivendi|12|closed|2020-03-25T14:49:08Z|Jneville0815|2020-03-16T07:00:00Z||integrate database
+|cs340-20/ModusVivendi|11|closed|2020-03-25T14:49:20Z|Kishan1029|2020-03-16T07:00:00Z||look into mongodb to store users
+|cs340-20/ModusVivendi|10|closed|2020-03-25T14:49:38Z|clampe1|2020-03-16T07:00:00Z||improve front-end design
+|cs340-20/ModusVivendi|9|closed|2020-03-25T14:49:48Z|DustinCraig|2020-03-16T07:00:00Z||get authentication system working
 |cs340-20/ModusVivendi|8|closed|2020-03-02T14:04:37Z|DustinCraig|2020-02-28T08:00:00Z||Help finish off the front end and start working on authentication
 |cs340-20/ModusVivendi|7|closed|2020-03-02T14:04:56Z|Kishan1029|2020-02-28T08:00:00Z||Finish styling the login/register page
 |cs340-20/ModusVivendi|6|closed|2020-03-02T14:05:13Z|clampe1|2020-02-28T08:00:00Z||Design the workout page and diet page
@@ -24,7 +24,7 @@
 |cs340-20/Personnel-Management|10|closed|2020-02-14T16:07:03Z||None||Complete personnel page, start cards on index.php
 |cs340-20/Personnel-Management|9|closed|2020-02-12T14:31:32Z||None||Improve Personnel functionality and styling
 |cs340-20/Personnel-Management|8|closed|2020-02-05T14:04:20Z||2020-01-29T08:00:00Z||Personnel front end
-|cs340-20/Personnel-Management|7|open|2020-02-26T14:04:35Z|chowar32|None||Login options
+|cs340-20/Personnel-Management|7|open|2020-02-26T14:04:35Z|chowar32|2020-04-24T07:00:00Z||Login options
 |cs340-20/Personnel-Management|6|closed|2020-02-24T14:51:15Z|sammyawad1998 TimothymKrenz chowar32|None||Decide home page content
 |cs340-20/Personnel-Management|5|open|2020-01-29T15:06:15Z|TimothymKrenz|None||Messaging: Front End
 |cs340-20/Personnel-Management|4|closed|2020-02-05T14:05:34Z|cwhita11|2020-02-03T08:00:00Z||Personnel: Check boxes and "view info", Add/remove people
@@ -91,6 +91,10 @@
 |cs340-20/Whirl|20|closed|2020-02-12T14:48:14Z|jiuruzhu|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/Whirl|19|closed|2020-02-12T14:50:57Z|dnguye201|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/Whirl|18|closed|2020-02-07T01:02:46Z|tuckermiles70|2020-02-14T08:00:00Z||Individual minimum viable product design
+|cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
+|cs340-20/PhysicalQt|3|open|2020-03-25T15:23:08Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
+|cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
+|cs340-20/PhysicalQt|1|open|2020-03-25T15:17:24Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
 |cs340-20/InstantMessengerBot|27|closed|2020-03-12T23:59:15Z||None||Merge the following features to master:
 |cs340-20/InstantMessengerBot|26|closed|2020-03-12T23:53:00Z||None||adding small changes to command line printing
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
@@ -118,41 +122,41 @@
 |cs340-20/InstantMessengerBot|3|open|2020-02-01T22:38:00Z|Boostem Tristen-Finley jtue|None|,QOL|text meme editor
 |cs340-20/InstantMessengerBot|2|open|2020-02-01T22:35:25Z|Boostem Tristen-Finley jtue|None|,QOL|Picture Meme editor
 |cs340-20/InstantMessengerBot|1|closed|2020-03-05T03:03:57Z|Boostem Tristen-Finley jtue|2020-03-08T08:00:00Z|,Moderator|Swear Filter
-|cs340-20/tasukete|35|open|2020-03-11T19:05:12Z||None||Add tagging system
-|cs340-20/tasukete|34|open|2020-03-11T19:04:57Z||None||Add notification system
-|cs340-20/tasukete|33|open|2020-03-11T17:49:10Z||None||fix bug language prompt shows up after signin
-|cs340-20/tasukete|32|open|2020-03-11T17:04:28Z||None||Force auto redirect from http to https... .htaccess?
-|cs340-20/tasukete|31|open|2020-03-11T15:09:42Z||None||Code to make sure user profile displayname / posts are not zero...
+|cs340-20/tasukete|35|open|2020-03-25T20:57:26Z|jlangst6|2020-04-14T07:00:00Z||Add tagging system
+|cs340-20/tasukete|34|open|2020-03-25T20:57:26Z|bbible3|2020-04-14T07:00:00Z||Add notification system
+|cs340-20/tasukete|33|closed|2020-03-25T20:57:01Z||None||fix bug language prompt shows up after signin
+|cs340-20/tasukete|32|closed|2020-03-25T21:10:32Z|bbible3|2020-04-14T07:00:00Z||Force auto redirect from http to https... .htaccess?
+|cs340-20/tasukete|31|open|2020-03-25T20:58:14Z|bbible3|2020-04-14T07:00:00Z||Code to make sure user profile displayname / posts are not zero...
 |cs340-20/tasukete|30|closed|2020-03-09T13:09:31Z||None||Write function to disallow html in posts
-|cs340-20/tasukete|29|open|2020-03-04T21:40:09Z||None||Write regex for username detection & finish RENDERUSERBUTTON($username) in posthost.php
-|cs340-20/tasukete|28|open|2020-03-04T20:30:09Z||None||Create auto updating function for once a comment is posted on userposts
-|cs340-20/tasukete|27|open|2020-02-28T14:42:00Z||None||Make function in AJAX to dynamically load (n) more posts onto the user's feed via the PRINTPOSTS functionality (may need to be expanded)
-|cs340-20/tasukete|26|open|2020-02-28T14:41:22Z||None||Create individual user's profile page (eg profiles/?user=twango)
-|cs340-20/tasukete|25|open|2020-02-27T22:15:43Z||None||Create function to convert timestamp to better readable format (ie "Ten minutes ago... ten seconds ago. More than 24 hours should be just a formatted datestamp e.g. (2020/2/4 11:30PM)
-|cs340-20/tasukete|24|open|2020-02-27T22:12:54Z||None||Display flag by users posts' that equals their language preference via bootstrap
-|cs340-20/tasukete|23|open|2020-02-27T22:12:36Z||None||Auto-translate feature below posts
-|cs340-20/tasukete|22|open|2020-02-27T22:12:23Z||None||Profile photo upload PHP
-|cs340-20/tasukete|21|open|2020-02-27T22:12:06Z||None||Setup styling for allowing photos in posts
-|cs340-20/tasukete|20|open|2020-02-27T22:11:53Z||None||Setup styling for comments (threads under posts... each post has a "reply" button that makes a "reply" form appear)
+|cs340-20/tasukete|29|open|2020-03-25T20:58:49Z|bbible3|2020-04-14T07:00:00Z||Write regex for username detection & finish RENDERUSERBUTTON($username) in posthost.php
+|cs340-20/tasukete|28|closed|2020-03-25T21:10:32Z||2020-04-14T07:00:00Z||Create auto updating function for once a comment is posted on userposts
+|cs340-20/tasukete|27|closed|2020-03-25T21:10:32Z|bbible3|2020-04-14T07:00:00Z||Make function in AJAX to dynamically load (n) more posts onto the user's feed via the PRINTPOSTS functionality (may need to be expanded)
+|cs340-20/tasukete|26|open|2020-03-25T21:03:42Z|eyesontheside|2020-04-14T07:00:00Z||Create individual user's profile page (eg profiles/?user=twango)
+|cs340-20/tasukete|25|closed|2020-03-25T21:10:31Z|bbible3|2020-04-14T07:00:00Z||Create function to convert timestamp to better readable format (ie "Ten minutes ago... ten seconds ago. More than 24 hours should be just a formatted datestamp e.g. (2020/2/4 11:30PM)
+|cs340-20/tasukete|24|open|2020-03-25T21:04:15Z|bbible3|2020-04-14T07:00:00Z||Display flag by users posts' that equals their language preference via bootstrap
+|cs340-20/tasukete|23|open|2020-03-25T21:05:47Z|zdong7|2020-04-14T07:00:00Z||Auto-translate feature below posts
+|cs340-20/tasukete|22|closed|2020-03-25T21:10:31Z|bbible3|2020-04-14T07:00:00Z||Profile photo upload PHP
+|cs340-20/tasukete|21|open|2020-03-25T21:06:19Z|eyesontheside|2020-04-14T07:00:00Z||Setup styling for allowing photos in posts
+|cs340-20/tasukete|20|closed|2020-03-25T21:10:31Z|bbible3|2020-04-14T07:00:00Z||Setup styling for comments (threads under posts... each post has a "reply" button that makes a "reply" form appear)
 |cs340-20/tasukete|19|closed|2020-03-11T19:16:04Z||None||Create functions to CREATE_COMMENT
 |cs340-20/tasukete|18|closed|2020-03-11T19:15:51Z||None||Create database table for comments
-|cs340-20/tasukete|17|open|2020-02-27T22:10:45Z||None||Link create/update profile page with SQL functions so it works
+|cs340-20/tasukete|17|closed|2020-03-25T21:10:30Z|jlangst6 bbible3|2020-04-14T07:00:00Z||Link create/update profile page with SQL functions so it works
 |cs340-20/tasukete|16|closed|2020-02-27T22:09:35Z|jlangst6|None||Repair hashing
-|cs340-20/tasukete|15|open|2020-02-25T23:21:09Z|eyesontheside|None||Apply better bootstrap styling to the signup error message 
-|cs340-20/tasukete|14|open|2020-01-25T18:19:55Z||None|,enhancement|Enable photo posting
-|cs340-20/tasukete|13|open|2020-01-25T18:18:40Z||None|,enhancement|Enable auto-translating via google translate
-|cs340-20/tasukete|12|open|2020-01-25T18:17:22Z||None|,enhancement|Create back-end for instant messaging
-|cs340-20/tasukete|11|open|2020-01-25T18:16:31Z||None|,enhancement|User interface for instant messaging
+|cs340-20/tasukete|15|open|2020-03-25T20:57:22Z|eyesontheside|2020-04-14T07:00:00Z||Apply better bootstrap styling to the signup error message 
+|cs340-20/tasukete|14|open|2020-03-25T21:08:34Z|jlangst6 bbible3|2020-04-14T07:00:00Z|,enhancement|Enable photo posting
+|cs340-20/tasukete|13|open|2020-03-25T21:08:47Z|zdong7|2020-04-14T07:00:00Z|,enhancement|Enable auto-translating via google translate
+|cs340-20/tasukete|12|open|2020-03-25T21:09:08Z|jlangst6 zdong7|2020-04-14T07:00:00Z|,enhancement|Create back-end for instant messaging
+|cs340-20/tasukete|11|open|2020-03-25T21:09:25Z|eyesontheside|2020-04-14T07:00:00Z|,enhancement|User interface for instant messaging
 |cs340-20/tasukete|10|closed|2020-02-27T22:09:51Z||None|,enhancement|User interface for registration
-|cs340-20/tasukete|9|open|2020-01-25T18:14:29Z||None|,enhancement|Create user interface for profiles
+|cs340-20/tasukete|9|closed|2020-03-25T21:10:30Z|eyesontheside|2020-04-14T07:00:00Z|,enhancement|Create user interface for profiles
 |cs340-20/tasukete|8|closed|2020-02-14T23:22:34Z|eyesontheside|2020-02-14T08:00:00Z|,enhancement|Create user interface for posts
 |cs340-20/tasukete|7|closed|2020-02-27T22:10:01Z|bbible3|None|,enhancement|Create back-end code used to display posts based on location
 |cs340-20/tasukete|6|closed|2020-02-14T21:22:28Z|bbible3|2020-02-14T08:00:00Z|,enhancement|Location Calculation
 |cs340-20/tasukete|5|closed|2020-02-27T22:10:08Z||2020-02-14T08:00:00Z|,enhancement|Set up the database to hold user profiles
-|cs340-20/tasukete|4|open|2020-02-27T22:10:25Z|zdong7|2020-02-14T08:00:00Z|,enhancement|Set up the database table to hold posts and comments
+|cs340-20/tasukete|4|closed|2020-03-25T21:10:30Z|zdong7|2020-04-14T07:00:00Z|,enhancement|Set up the database table to hold posts and comments
 |cs340-20/tasukete|3|closed|2020-02-27T22:10:17Z||None|,enhancement|Make the index.php just a holder for the interface
 |cs340-20/tasukete|2|closed|2020-02-26T14:30:23Z|jlangst6 zdong7|2020-02-14T08:00:00Z|,enhancement|Set up the registration functions for the database
-|cs340-20/tasukete|1|open|2020-02-26T14:30:44Z|jlangst6|2020-02-14T08:00:00Z|,enhancement|Secure the database
+|cs340-20/tasukete|1|closed|2020-03-25T21:10:29Z|jlangst6|2020-04-14T07:00:00Z|,enhancement|Secure the database
 |cs340-20/CivilizationSimulator|11|closed|2020-02-28T13:44:02Z||None||New visual interface
 |cs340-20/CivilizationSimulator|10|closed|2020-03-04T14:42:20Z|iqbo zables|None||Updating cells randomly
 |cs340-20/CivilizationSimulator|9|closed|2020-03-04T14:42:28Z|lcourtn5|None||Adding terrain
@@ -164,16 +168,19 @@
 |cs340-20/CivilizationSimulator|3|closed|2020-02-20T15:06:50Z|lcourtn5 iqbo zables|None||Life rules (Basic)
 |cs340-20/CivilizationSimulator|2|closed|2020-02-10T00:44:59Z|lcourtn5 iqbo zables|None||Birth Rules (Basic)
 |cs340-20/CivilizationSimulator|1|closed|2020-02-07T14:42:08Z|lcourtn5|None||Basic Environment Creation
+|cs340-20/KnitKnack|22|open|2020-03-25T13:21:33Z|llocke2|2020-04-10T07:00:00Z||Update Readme.md
+|cs340-20/KnitKnack|21|open|2020-03-25T13:36:15Z|llocke2|2020-04-10T07:00:00Z||UI Updates
+|cs340-20/KnitKnack|20|open|2020-03-25T13:17:44Z|Horseburgh|2020-04-10T07:00:00Z||Save data
 |cs340-20/KnitKnack|19|closed|2020-03-11T17:11:24Z||None||Minimum System Requirements (3/13)
-|cs340-20/KnitKnack|18|open|2020-03-11T02:41:22Z|Horseburgh|2020-03-13T07:00:00Z|,enhancement|create project button functionality
-|cs340-20/KnitKnack|17|open|2020-03-11T02:41:10Z|llocke2|2020-03-13T07:00:00Z|,documentation|create status report
-|cs340-20/KnitKnack|16|open|2020-03-11T02:40:58Z|TSenter|2020-03-13T07:00:00Z|,enhancement|Populate home page with projects
+|cs340-20/KnitKnack|18|closed|2020-03-25T13:16:40Z|Horseburgh|2020-03-13T07:00:00Z|,enhancement|create project button functionality
+|cs340-20/KnitKnack|17|closed|2020-03-25T13:10:45Z|llocke2|2020-03-13T07:00:00Z|,documentation|create status report
+|cs340-20/KnitKnack|16|closed|2020-03-25T13:16:28Z|TSenter|2020-03-13T07:00:00Z|,enhancement|Populate home page with projects
 |cs340-20/KnitKnack|15|closed|2020-03-10T19:47:11Z||None||File read write
 |cs340-20/KnitKnack|14|closed|2020-03-04T14:27:37Z||None||Add files via upload
 |cs340-20/KnitKnack|13|closed|2020-03-04T14:11:53Z||None||Corinne
-|cs340-20/KnitKnack|12|open|2020-03-11T02:40:39Z|szimmer9 cparm11|2020-03-13T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
-|cs340-20/KnitKnack|11|open|2020-03-11T02:40:22Z|szimmer9 llocke2|2020-03-13T07:00:00Z|,bug|Review all current layout pages and fix minor bugs 
-|cs340-20/KnitKnack|10|open|2020-03-11T02:38:59Z|TSenter Horseburgh|None|,enhancement|Back end functionality for creating new project
+|cs340-20/KnitKnack|12|open|2020-03-25T13:16:15Z|szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
+|cs340-20/KnitKnack|11|closed|2020-03-25T13:15:09Z|szimmer9 llocke2|2020-03-13T07:00:00Z|,bug|Review all current layout pages and fix minor bugs 
+|cs340-20/KnitKnack|10|open|2020-03-25T13:14:23Z|TSenter Horseburgh|2020-04-10T07:00:00Z|,enhancement|Back end functionality for creating new project
 |cs340-20/KnitKnack|9|closed|2020-03-01T16:12:12Z||None||New pages and fixes
 |cs340-20/KnitKnack|8|closed|2020-03-02T20:00:36Z||None||Add files via upload
 |cs340-20/KnitKnack|7|closed|2020-03-11T00:24:20Z|cparm11|2020-02-28T08:00:00Z||Stitch counter page/code
