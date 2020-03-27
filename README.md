@@ -26,37 +26,21 @@
    * Work on final project
    * Work on OSS contribution   
    
-# Class (Apr 10)
+# Class (Apr 6, 8, 10)
    * Work on final project
    * Work on OSS contribution
    * Milestone 4: Develop a plan of contribution is due
    
-# Class (Apr 8)
-   * Work on final project
-   * Work on OSS contribution
-
-# Class (Apr 6)
-   * Work on final project
-   * Work on OSS contribution
-
-# Class (Apr 3)
+# Class (Mar 30, Apr 1, 3)
    * Work on final project
    * Work on OSS contribution
    * Milestone 3: Describe OSS project is due
 
-# Class  (Apr 1) 
-   * Work on final project
-   * Work on OSS contribution
-
-# Class  (Mar 30) 
-   * Work on final project
-   * Work on OSS contribution
-
 # Class  (Mar 27) 
-   * Work on final project
-   * Work on OSS contribution
-   * Milestone 2: Select OSS project
-   
+   * (15 have not submitted OSS project selection criteria)[https://github.com/cs340-20/oss/milestone/1]
+   * Please have a project milestone with due date and an [issue assigned to you](https://github.com/cs340-20/news/blob/master/oissues.md) 
+   * Milestone 2: (Select OSS project is due)[https://github.com/cs340-20/oss/milestone/2]
+   * Please call in to zoom if you have any questions or need help
 
 # Class  (Mar 25) 
    * Work on final project
