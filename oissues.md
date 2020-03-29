@@ -2,12 +2,8 @@
 or no deadline for the milestone, or the issue is not assigned to a milestone
 
     - Boostem
-    - DustinCraig
-    - Jneville0815
-    - Kishan1029
     - RephaelCongmon
     - TimothymKrenz
-    - clampe1
     - cwhita11
     - dnguye201
     - iqbo
@@ -19,7 +15,6 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
     - lcourtn5
     - mars3725
     - sammyawad1998
-    - tjames17
     - tnguye69
     - tuckermiles70
     - vickit144
@@ -28,6 +23,8 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
+|cs340-20/ModusVivendi|15|open|2020-03-27T18:06:25Z|DustinCraig Jneville0815|2020-04-03T07:00:00Z||Finish the back-end
+|cs340-20/ModusVivendi|14|open|2020-03-27T18:05:44Z|clampe1 Kishan1029|2020-04-03T07:00:00Z||Finish cleaning up the front-end
 |cs340-20/Personnel-Management|14|open|2020-03-05T03:25:33Z||None||messaging front/back-end
 |cs340-20/Personnel-Management|13|open|2020-03-05T03:20:14Z||None||Events backend
 |cs340-20/Personnel-Management|7|open|2020-02-26T14:04:35Z|chowar32|2020-04-24T07:00:00Z||Login options
@@ -40,7 +37,7 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
 |cs340-20/PhysicalQt|3|open|2020-03-25T15:23:08Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
 |cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
-|cs340-20/PhysicalQt|1|open|2020-03-25T15:17:24Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
+|cs340-20/PhysicalQt|1|open|2020-03-27T17:59:10Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
 |cs340-20/InstantMessengerBot|23|open|2020-03-07T20:17:17Z|Tristen-Finley|2020-03-08T08:00:00Z|,Moderator|kick/ban/timeout functions
 |cs340-20/InstantMessengerBot|15|open|2020-03-06T02:09:01Z|jtue|2020-03-08T08:00:00Z|,Bot,QOL|Add/Create text channels with a command
@@ -72,4 +69,6 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |cs340-20/KnitKnack|20|open|2020-03-25T13:17:44Z|Horseburgh|2020-04-10T07:00:00Z||Save data
 |cs340-20/KnitKnack|12|open|2020-03-25T13:16:15Z|szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
 |cs340-20/KnitKnack|10|open|2020-03-25T13:14:23Z|TSenter Horseburgh|2020-04-10T07:00:00Z|,enhancement|Back end functionality for creating new project
+|cs340-20/nBox|14|open|2020-03-28T19:10:39Z|jdalton6|None||Design and Implement Title Screen
+|cs340-20/nBox|13|open|2020-03-27T21:11:18Z|tjames17|2020-04-03T07:00:00Z||Fix ascii text/update blackjack startup
 |cs340-20/nBox|9|open|2020-02-13T20:11:06Z|jbridg12utk|None||Create an arcade style game for the suite

@@ -1,5 +1,7 @@
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
+|cs340-20/ModusVivendi|15|open|2020-03-27T18:06:25Z|DustinCraig Jneville0815|2020-04-03T07:00:00Z||Finish the back-end
+|cs340-20/ModusVivendi|14|open|2020-03-27T18:05:44Z|clampe1 Kishan1029|2020-04-03T07:00:00Z||Finish cleaning up the front-end
 |cs340-20/ModusVivendi|13|closed|2020-03-25T14:48:44Z||None|,dependencies|Bump minimist from 1.2.0 to 1.2.5
 |cs340-20/ModusVivendi|12|closed|2020-03-25T14:49:08Z|Jneville0815|2020-03-16T07:00:00Z||integrate database
 |cs340-20/ModusVivendi|11|closed|2020-03-25T14:49:20Z|Kishan1029|2020-03-16T07:00:00Z||look into mongodb to store users
@@ -94,7 +96,7 @@
 |cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
 |cs340-20/PhysicalQt|3|open|2020-03-25T15:23:08Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
 |cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
-|cs340-20/PhysicalQt|1|open|2020-03-25T15:17:24Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
+|cs340-20/PhysicalQt|1|open|2020-03-27T17:59:10Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
 |cs340-20/InstantMessengerBot|27|closed|2020-03-12T23:59:15Z||None||Merge the following features to master:
 |cs340-20/InstantMessengerBot|26|closed|2020-03-12T23:53:00Z||None||adding small changes to command line printing
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
@@ -190,6 +192,8 @@
 |cs340-20/KnitKnack|3|closed|2020-02-17T14:15:17Z|llocke2|2020-02-09T08:00:00Z||Upload Project to KnickKnack 
 |cs340-20/KnitKnack|2|closed|2020-02-17T14:15:17Z|llocke2 Horseburgh|2020-02-09T08:00:00Z||UI Design
 |cs340-20/KnitKnack|1|closed|2020-02-07T14:16:39Z|TSenter szimmer9 llocke2|2020-02-09T08:00:00Z||UI Mock-ups
+|cs340-20/nBox|14|open|2020-03-28T19:10:39Z|jdalton6|None||Design and Implement Title Screen
+|cs340-20/nBox|13|open|2020-03-27T21:11:18Z|tjames17|2020-04-03T07:00:00Z||Fix ascii text/update blackjack startup
 |cs340-20/nBox|12|closed|2020-02-27T15:34:05Z|jdalton6|None||add pacman
 |cs340-20/nBox|11|closed|2020-02-26T15:41:23Z|jdalton6|None||Integrate Circle Dash into main menu
 |cs340-20/nBox|10|closed|2020-02-26T15:41:23Z|jdalton6|None||Remove *.o and *.exe files from repo
