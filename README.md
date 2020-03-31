@@ -1,5 +1,6 @@
-
-
+# Timely topics
+   * https://covid-global-hackathon.devpost.com/ 
+   
 # Class (Apr 20, 22, 24)
    * Work on final project
    * Work on OSS contribution
