@@ -33,10 +33,12 @@
 |cs340-20/Personnel-Management|3|closed|2020-01-29T14:56:14Z||None||Adding personnel front end and functionality
 |cs340-20/Personnel-Management|2|closed|2020-01-29T14:48:46Z||None||Finished the Proposal
 |cs340-20/Personnel-Management|1|closed|2020-01-29T14:47:18Z|cwhita11|2020-01-29T08:00:00Z||Personnel section front end
+|cs340-20/Whirl|79|open|2020-04-13T01:05:22Z||None||Create way to add rides to Firestore DB
+|cs340-20/Whirl|78|open|2020-04-13T00:53:24Z|tuckermiles70|None||Show ride details when location is tapped
 |cs340-20/Whirl|77|open|2020-03-11T13:10:42Z|tuckermiles70|None||Potentially change to circle avatar on profile page
 |cs340-20/Whirl|76|open|2020-03-11T03:23:03Z||None||Populate profile page ride list with data from Firestore DB
 |cs340-20/Whirl|75|open|2020-03-10T21:26:18Z||None||Update app launcher icon
-|cs340-20/Whirl|74|open|2020-03-11T03:23:24Z||None||Populate ride list with data from Firestore DB
+|cs340-20/Whirl|74|closed|2020-04-13T00:54:25Z|tuckermiles70|None||Populate ride list with data from Firestore DB
 |cs340-20/Whirl|73|open|2020-03-10T14:15:55Z||None||Splash screen
 |cs340-20/Whirl|72|closed|2020-03-13T14:16:26Z||2020-03-13T07:00:00Z||Status Report
 |cs340-20/Whirl|71|closed|2020-03-09T13:56:29Z|tuckermiles70|2020-03-13T07:00:00Z||Change login screen color palette
@@ -91,12 +93,10 @@
 |cs340-20/Whirl|22|closed|2020-02-10T14:55:32Z|vickit144|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/Whirl|21|closed|2020-02-10T17:00:14Z|mars3725|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/Whirl|20|closed|2020-02-12T14:48:14Z|jiuruzhu|2020-02-14T08:00:00Z||Individual minimum viable product design
-|cs340-20/Whirl|19|closed|2020-02-12T14:50:57Z|dnguye201|2020-02-14T08:00:00Z||Individual minimum viable product design
-|cs340-20/Whirl|18|closed|2020-02-07T01:02:46Z|tuckermiles70|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
-|cs340-20/PhysicalQt|3|open|2020-03-25T15:23:08Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
+|cs340-20/PhysicalQt|3|open|2020-04-06T15:03:47Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
 |cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
-|cs340-20/PhysicalQt|1|open|2020-03-27T17:59:10Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
+|cs340-20/PhysicalQt|1|open|2020-04-06T15:05:43Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
 |cs340-20/InstantMessengerBot|27|closed|2020-03-12T23:59:15Z||None||Merge the following features to master:
 |cs340-20/InstantMessengerBot|26|closed|2020-03-12T23:53:00Z||None||adding small changes to command line printing
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
@@ -170,9 +170,9 @@
 |cs340-20/CivilizationSimulator|3|closed|2020-02-20T15:06:50Z|lcourtn5 iqbo zables|None||Life rules (Basic)
 |cs340-20/CivilizationSimulator|2|closed|2020-02-10T00:44:59Z|lcourtn5 iqbo zables|None||Birth Rules (Basic)
 |cs340-20/CivilizationSimulator|1|closed|2020-02-07T14:42:08Z|lcourtn5|None||Basic Environment Creation
-|cs340-20/KnitKnack|22|open|2020-03-25T13:21:33Z|llocke2|2020-04-10T07:00:00Z||Update Readme.md
-|cs340-20/KnitKnack|21|open|2020-03-25T13:36:15Z|llocke2|2020-04-10T07:00:00Z||UI Updates
-|cs340-20/KnitKnack|20|open|2020-03-25T13:17:44Z|Horseburgh|2020-04-10T07:00:00Z||Save data
+|cs340-20/KnitKnack|22|open|2020-04-08T13:20:56Z|llocke2|2020-04-10T07:00:00Z||Update Readme.md/Final report
+|cs340-20/KnitKnack|21|open|2020-04-08T13:21:10Z|llocke2|2020-04-10T07:00:00Z||UI Updates
+|cs340-20/KnitKnack|20|closed|2020-04-08T13:16:03Z|Horseburgh|2020-04-10T07:00:00Z||Save data
 |cs340-20/KnitKnack|19|closed|2020-03-11T17:11:24Z||None||Minimum System Requirements (3/13)
 |cs340-20/KnitKnack|18|closed|2020-03-25T13:16:40Z|Horseburgh|2020-03-13T07:00:00Z|,enhancement|create project button functionality
 |cs340-20/KnitKnack|17|closed|2020-03-25T13:10:45Z|llocke2|2020-03-13T07:00:00Z|,documentation|create status report
@@ -180,7 +180,7 @@
 |cs340-20/KnitKnack|15|closed|2020-03-10T19:47:11Z||None||File read write
 |cs340-20/KnitKnack|14|closed|2020-03-04T14:27:37Z||None||Add files via upload
 |cs340-20/KnitKnack|13|closed|2020-03-04T14:11:53Z||None||Corinne
-|cs340-20/KnitKnack|12|open|2020-03-25T13:16:15Z|szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
+|cs340-20/KnitKnack|12|open|2020-04-08T13:25:05Z|TSenter szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
 |cs340-20/KnitKnack|11|closed|2020-03-25T13:15:09Z|szimmer9 llocke2|2020-03-13T07:00:00Z|,bug|Review all current layout pages and fix minor bugs 
 |cs340-20/KnitKnack|10|open|2020-03-25T13:14:23Z|TSenter Horseburgh|2020-04-10T07:00:00Z|,enhancement|Back end functionality for creating new project
 |cs340-20/KnitKnack|9|closed|2020-03-01T16:12:12Z||None||New pages and fixes
@@ -192,8 +192,9 @@
 |cs340-20/KnitKnack|3|closed|2020-02-17T14:15:17Z|llocke2|2020-02-09T08:00:00Z||Upload Project to KnickKnack 
 |cs340-20/KnitKnack|2|closed|2020-02-17T14:15:17Z|llocke2 Horseburgh|2020-02-09T08:00:00Z||UI Design
 |cs340-20/KnitKnack|1|closed|2020-02-07T14:16:39Z|TSenter szimmer9 llocke2|2020-02-09T08:00:00Z||UI Mock-ups
+|cs340-20/nBox|15|open|2020-04-07T03:27:19Z|tjames17|None||implement basic tutorials
 |cs340-20/nBox|14|open|2020-03-28T19:10:39Z|jdalton6|None||Design and Implement Title Screen
-|cs340-20/nBox|13|open|2020-03-27T21:11:18Z|tjames17|2020-04-03T07:00:00Z||Fix ascii text/update blackjack startup
+|cs340-20/nBox|13|closed|2020-04-04T02:28:33Z|tjames17|2020-04-03T07:00:00Z||Fix ascii text/update blackjack startup
 |cs340-20/nBox|12|closed|2020-02-27T15:34:05Z|jdalton6|None||add pacman
 |cs340-20/nBox|11|closed|2020-02-26T15:41:23Z|jdalton6|None||Integrate Circle Dash into main menu
 |cs340-20/nBox|10|closed|2020-02-26T15:41:23Z|jdalton6|None||Remove *.o and *.exe files from repo
