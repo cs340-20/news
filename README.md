@@ -8,6 +8,7 @@
    
    
 # Class (Apr 13, 15, 17)
+   * [Please sign up for the final project presentations](https://github.com/cs340-20/news/issues/2)
    * Work on final project
    * Work on OSS contribution
    * [Milestone 5: Select the first task is due](https://github.com/cs340-20/oss/milestone/4)
