@@ -1,4 +1,7 @@
-# Timely topics
+# Please provide feedback on the class!
+   * [TNVoice](https://utk.campuslabs.com/eval-home/)
+ 
+ # Timely topics
    * https://covid-global-hackathon.devpost.com/ 
    
 # Class (Apr 20, 22, 24)
