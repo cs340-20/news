@@ -2,8 +2,8 @@
    * https://covid-global-hackathon.devpost.com/ 
    
 # Class (Apr 20, 22, 24)
-   * Work on final project
-   * Work on OSS contribution
+   * Final project presentations (Via Zoom)
+   * Please schedule your presentation for Apr 20, 22, or 24
    * [Milestone 6: Make and document your contribution is due](https://github.com/cs340-20/oss/milestone/4)
    
    
