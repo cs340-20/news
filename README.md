@@ -6,6 +6,7 @@
    
 # Class (Apr 20, 22, 24)
    * Final project presentations (Via Zoom)
+   * KnitKnack Presentation - Apr 22
    * Please schedule your presentation for Apr 20, 22, or 24
    * [Milestone 6: Make and document your contribution is due](https://github.com/cs340-20/oss/milestone/4)
    
