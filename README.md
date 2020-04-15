@@ -8,6 +8,7 @@
    * Final project presentations (Via Zoom)
    * KnitKnack Presentation, Modus Vivendi - Apr 22
    * Please schedule your presentation for Apr 20, 22, or 24
+   * [Project final report instructions](https://github.com/cs340-20/lectures/blob/master/project_final_report.pdf)
    * [Milestone 6: Make and document your contribution is due](https://github.com/cs340-20/oss/milestone/4)
    
    
@@ -78,7 +79,7 @@
 # Class  (Mar 2) 
    * Work on final project (status report)
    * Please use TA office hours or class time or schedule (at least 15min) separately with TA
-   *  [Minimum viable system demo/project Status report instructions](https://github.com/cs340-20/lectures/blob/master/status_report.pdf)
+   *  [Minimum viable system demo/project Status report instructions](https://github.com/cs340-20/lectures/blob/master/project_status.pdf)
       - Customer Value (5 points)
       - Technology (15 points)
       - Team (10 points)
