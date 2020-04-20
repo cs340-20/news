@@ -6,10 +6,15 @@
    
 # Class (Apr 20, 22, 24)
    * Final project presentations (Via Zoom)
-   * Presentations for KnitKnack, Modus Vivendi, and Whirl - 9:05-10:00 on Apr 22
-   * Presentations Tasukete at Noon? on Apr 22 
-   * Presentations for PhysicalQt at 11AM on Apr 24 
-   * IMBot Presentation 9:30AM Apr 24th
+   * Presentations on Apr 22
+        - KnitKnack at 9:05
+	- Modus Vivendi at 9:22
+	- Whirl at 9:39
+	- Tasukete at Noon? 
+   * Presentations on Apr 24
+        - Civilization Simulator at 9:05
+	- IMBot at 9:30AM 
+        - PhysicalQt at 11AM 
    * Please schedule your presentation for Apr 20, 22, or 24
    * [Project final report instructions](https://github.com/cs340-20/lectures/blob/master/project_final_report.pdf)
    * [Milestone 6: Make and document your contribution is due](https://github.com/cs340-20/oss/milestone/4)
