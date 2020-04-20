@@ -16,30 +16,34 @@
 |cs340-20/ModusVivendi|2|closed|2020-02-14T19:43:02Z|DustinCraig|2020-02-14T08:00:00Z||Navigation bar rough draft
 |cs340-20/ModusVivendi|1|closed|2020-02-14T19:36:41Z|Jneville0815|2020-02-14T08:00:00Z||Registration page rough draft
 |cs340-20/Personnel-Management|18|closed|2020-03-13T23:38:39Z||None||Update STATUS.md
-|cs340-20/Personnel-Management|17|closed|2020-03-10T02:41:16Z||None||Finish events backend
+|cs340-20/Personnel-Management|17|closed|2020-03-10T02:41:16Z||2020-03-19T07:00:00Z||Finish events backend
 |cs340-20/Personnel-Management|16|closed|2020-03-05T03:32:20Z||None||Back end
-|cs340-20/Personnel-Management|15|closed|2020-03-10T02:42:09Z||None||attendance table management
-|cs340-20/Personnel-Management|14|open|2020-03-05T03:25:33Z||None||messaging front/back-end
-|cs340-20/Personnel-Management|13|open|2020-03-05T03:20:14Z||None||Events backend
+|cs340-20/Personnel-Management|15|closed|2020-03-10T02:42:09Z||2020-03-19T07:00:00Z||attendance table management
+|cs340-20/Personnel-Management|14|open|2020-03-05T03:25:33Z||2020-04-05T07:00:00Z||messaging front/back-end
+|cs340-20/Personnel-Management|13|open|2020-03-05T03:20:14Z||2020-03-16T07:00:00Z||Events backend
 |cs340-20/Personnel-Management|12|closed|2020-02-24T14:50:42Z||None||Update Home page and add new styling options
 |cs340-20/Personnel-Management|11|closed|2020-02-14T16:41:49Z||None||event page
 |cs340-20/Personnel-Management|10|closed|2020-02-14T16:07:03Z||None||Complete personnel page, start cards on index.php
 |cs340-20/Personnel-Management|9|closed|2020-02-12T14:31:32Z||None||Improve Personnel functionality and styling
 |cs340-20/Personnel-Management|8|closed|2020-02-05T14:04:20Z||2020-01-29T08:00:00Z||Personnel front end
 |cs340-20/Personnel-Management|7|open|2020-02-26T14:04:35Z|chowar32|2020-04-24T07:00:00Z||Login options
-|cs340-20/Personnel-Management|6|closed|2020-02-24T14:51:15Z|sammyawad1998 TimothymKrenz chowar32|None||Decide home page content
-|cs340-20/Personnel-Management|5|open|2020-01-29T15:06:15Z|TimothymKrenz|None||Messaging: Front End
+|cs340-20/Personnel-Management|6|closed|2020-02-24T14:51:15Z|sammyawad1998 TimothymKrenz chowar32|2020-02-23T08:00:00Z||Decide home page content
+|cs340-20/Personnel-Management|5|open|2020-01-29T15:06:15Z|TimothymKrenz|2020-04-05T07:00:00Z||Messaging: Front End
 |cs340-20/Personnel-Management|4|closed|2020-02-05T14:05:34Z|cwhita11|2020-02-03T08:00:00Z||Personnel: Check boxes and "view info", Add/remove people
 |cs340-20/Personnel-Management|3|closed|2020-01-29T14:56:14Z||None||Adding personnel front end and functionality
-|cs340-20/Personnel-Management|2|closed|2020-01-29T14:48:46Z||None||Finished the Proposal
+|cs340-20/Personnel-Management|2|closed|2020-01-29T14:48:46Z||2020-01-31T08:00:00Z||Finished the Proposal
 |cs340-20/Personnel-Management|1|closed|2020-01-29T14:47:18Z|cwhita11|2020-01-29T08:00:00Z||Personnel section front end
-|cs340-20/Whirl|79|open|2020-04-13T01:05:22Z||None||Create way to add rides to Firestore DB
-|cs340-20/Whirl|78|open|2020-04-13T00:53:24Z|tuckermiles70|None||Show ride details when location is tapped
-|cs340-20/Whirl|77|open|2020-03-11T13:10:42Z|tuckermiles70|None||Potentially change to circle avatar on profile page
-|cs340-20/Whirl|76|open|2020-03-11T03:23:03Z||None||Populate profile page ride list with data from Firestore DB
-|cs340-20/Whirl|75|open|2020-03-10T21:26:18Z||None||Update app launcher icon
-|cs340-20/Whirl|74|closed|2020-04-13T00:54:25Z|tuckermiles70|None||Populate ride list with data from Firestore DB
-|cs340-20/Whirl|73|open|2020-03-10T14:15:55Z||None||Splash screen
+|cs340-20/Whirl|83|closed|2020-04-19T21:50:24Z|tuckermiles70|2020-04-24T07:00:00Z||Update API key after incorrectly adding AndroidManifest to .gitignore
+|cs340-20/Whirl|82|closed|2020-04-19T21:44:24Z|tuckermiles70|2020-04-24T07:00:00Z||Add map
+|cs340-20/Whirl|81|closed|2020-04-19T21:03:52Z|tuckermiles70|2020-04-24T07:00:00Z||Fix profile mockup
+|cs340-20/Whirl|80|open|2020-04-20T04:11:38Z|mars3725 tuckermiles70 vickit144|2020-04-24T07:00:00Z||Final Report
+|cs340-20/Whirl|79|open|2020-04-19T21:44:51Z|mars3725|2020-04-24T07:00:00Z||Create way to add rides to Firestore DB
+|cs340-20/Whirl|78|closed|2020-04-14T21:52:00Z|tuckermiles70|2020-04-24T07:00:00Z||Show ride details when location is tapped
+|cs340-20/Whirl|77|closed|2020-04-14T21:52:05Z|tuckermiles70|2020-04-24T07:00:00Z||Potentially change to circle avatar on profile page
+|cs340-20/Whirl|76|closed|2020-04-19T21:45:30Z|tuckermiles70|2020-04-24T07:00:00Z||Populate profile page ride list with data from Firestore DB
+|cs340-20/Whirl|75|closed|2020-04-20T01:57:12Z|vickit144|2020-04-24T07:00:00Z||Update app launcher icon
+|cs340-20/Whirl|74|closed|2020-04-14T21:52:11Z|tuckermiles70|2020-04-24T07:00:00Z||Populate ride list with data from Firestore DB
+|cs340-20/Whirl|73|open|2020-04-18T04:57:42Z|vickit144 dnguye201|2020-04-24T07:00:00Z||Splash screen
 |cs340-20/Whirl|72|closed|2020-03-13T14:16:26Z||2020-03-13T07:00:00Z||Status Report
 |cs340-20/Whirl|71|closed|2020-03-09T13:56:29Z|tuckermiles70|2020-03-13T07:00:00Z||Change login screen color palette
 |cs340-20/Whirl|70|closed|2020-03-10T06:35:37Z|mars3725|2020-03-13T07:00:00Z||Add silent login
@@ -89,19 +93,16 @@
 |cs340-20/Whirl|26|closed|2020-02-12T14:49:09Z|jiuruzhu|2020-02-14T08:00:00Z||Change to Flutter Beta channel
 |cs340-20/Whirl|25|closed|2020-02-12T14:51:18Z|dnguye201|2020-02-14T08:00:00Z||Change to Flutter Beta channel
 |cs340-20/Whirl|24|closed|2020-02-07T14:07:14Z|vickit144|2020-02-14T08:00:00Z||Change to Flutter Beta channel
-|cs340-20/Whirl|23|closed|2020-02-07T01:15:19Z|tuckermiles70|2020-02-14T08:00:00Z||Push Flutter project to repo 
-|cs340-20/Whirl|22|closed|2020-02-10T14:55:32Z|vickit144|2020-02-14T08:00:00Z||Individual minimum viable product design
-|cs340-20/Whirl|21|closed|2020-02-10T17:00:14Z|mars3725|2020-02-14T08:00:00Z||Individual minimum viable product design
-|cs340-20/Whirl|20|closed|2020-02-12T14:48:14Z|jiuruzhu|2020-02-14T08:00:00Z||Individual minimum viable product design
 |cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
 |cs340-20/PhysicalQt|3|open|2020-04-06T15:03:47Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
 |cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
 |cs340-20/PhysicalQt|1|open|2020-04-06T15:05:43Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
+|cs340-20/InstantMessengerBot|28|open|2020-04-18T22:30:34Z|Boostem Tristen-Finley jtue|2020-04-23T07:00:00Z|,documentation|Create function/bot documentation.
 |cs340-20/InstantMessengerBot|27|closed|2020-03-12T23:59:15Z||None||Merge the following features to master:
 |cs340-20/InstantMessengerBot|26|closed|2020-03-12T23:53:00Z||None||adding small changes to command line printing
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
 |cs340-20/InstantMessengerBot|24|closed|2020-03-12T23:53:26Z||None||Word filter
-|cs340-20/InstantMessengerBot|23|open|2020-03-07T20:17:17Z|Tristen-Finley|2020-03-08T08:00:00Z|,Moderator|kick/ban/timeout functions
+|cs340-20/InstantMessengerBot|23|open|2020-04-18T22:27:07Z|Tristen-Finley|2020-03-08T08:00:00Z|,Moderator|kick/ban/timeout functions
 |cs340-20/InstantMessengerBot|22|closed|2020-03-12T23:53:26Z||None||implementing a word filter
 |cs340-20/InstantMessengerBot|21|closed|2020-03-05T00:43:00Z||None||Get the test branch all caught up with comments
 |cs340-20/InstantMessengerBot|20|closed|2020-03-05T00:39:39Z||None||Bot dev
@@ -170,10 +171,16 @@
 |cs340-20/CivilizationSimulator|3|closed|2020-02-20T15:06:50Z|lcourtn5 iqbo zables|None||Life rules (Basic)
 |cs340-20/CivilizationSimulator|2|closed|2020-02-10T00:44:59Z|lcourtn5 iqbo zables|None||Birth Rules (Basic)
 |cs340-20/CivilizationSimulator|1|closed|2020-02-07T14:42:08Z|lcourtn5|None||Basic Environment Creation
+|cs340-20/KnitKnack|28|closed|2020-04-17T15:35:25Z||None||Counter Name
+|cs340-20/KnitKnack|27|closed|2020-04-17T15:35:27Z||None||Corinne3
+|cs340-20/KnitKnack|26|closed|2020-04-16T23:47:09Z||None||Counter name fixes
+|cs340-20/KnitKnack|25|closed|2020-04-17T00:06:40Z||None||Corinne2
+|cs340-20/KnitKnack|24|closed|2020-04-16T22:46:39Z||None||Counter Name
+|cs340-20/KnitKnack|23|closed|2020-04-16T23:42:00Z||None||corinne counter updates
 |cs340-20/KnitKnack|22|open|2020-04-08T13:20:56Z|llocke2|2020-04-10T07:00:00Z||Update Readme.md/Final report
-|cs340-20/KnitKnack|21|open|2020-04-08T13:21:10Z|llocke2|2020-04-10T07:00:00Z||UI Updates
+|cs340-20/KnitKnack|21|closed|2020-04-17T15:13:24Z|llocke2|2020-04-10T07:00:00Z||UI Updates
 |cs340-20/KnitKnack|20|closed|2020-04-08T13:16:03Z|Horseburgh|2020-04-10T07:00:00Z||Save data
-|cs340-20/KnitKnack|19|closed|2020-03-11T17:11:24Z||None||Minimum System Requirements (3/13)
+|cs340-20/KnitKnack|19|closed|2020-04-17T15:22:15Z||None||Minimum System Requirements (3/13)
 |cs340-20/KnitKnack|18|closed|2020-03-25T13:16:40Z|Horseburgh|2020-03-13T07:00:00Z|,enhancement|create project button functionality
 |cs340-20/KnitKnack|17|closed|2020-03-25T13:10:45Z|llocke2|2020-03-13T07:00:00Z|,documentation|create status report
 |cs340-20/KnitKnack|16|closed|2020-03-25T13:16:28Z|TSenter|2020-03-13T07:00:00Z|,enhancement|Populate home page with projects
@@ -183,7 +190,7 @@
 |cs340-20/KnitKnack|12|open|2020-04-08T13:25:05Z|TSenter szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
 |cs340-20/KnitKnack|11|closed|2020-03-25T13:15:09Z|szimmer9 llocke2|2020-03-13T07:00:00Z|,bug|Review all current layout pages and fix minor bugs 
 |cs340-20/KnitKnack|10|open|2020-03-25T13:14:23Z|TSenter Horseburgh|2020-04-10T07:00:00Z|,enhancement|Back end functionality for creating new project
-|cs340-20/KnitKnack|9|closed|2020-03-01T16:12:12Z||None||New pages and fixes
+|cs340-20/KnitKnack|9|closed|2020-04-17T15:22:13Z||None||New pages and fixes
 |cs340-20/KnitKnack|8|closed|2020-03-02T20:00:36Z||None||Add files via upload
 |cs340-20/KnitKnack|7|closed|2020-03-11T00:24:20Z|cparm11|2020-02-28T08:00:00Z||Stitch counter page/code
 |cs340-20/KnitKnack|6|closed|2020-03-02T19:50:56Z|TSenter Horseburgh|None||Add button functionality for add project
@@ -192,8 +199,11 @@
 |cs340-20/KnitKnack|3|closed|2020-02-17T14:15:17Z|llocke2|2020-02-09T08:00:00Z||Upload Project to KnickKnack 
 |cs340-20/KnitKnack|2|closed|2020-02-17T14:15:17Z|llocke2 Horseburgh|2020-02-09T08:00:00Z||UI Design
 |cs340-20/KnitKnack|1|closed|2020-02-07T14:16:39Z|TSenter szimmer9 llocke2|2020-02-09T08:00:00Z||UI Mock-ups
-|cs340-20/nBox|15|open|2020-04-07T03:27:19Z|tjames17|None||implement basic tutorials
-|cs340-20/nBox|14|open|2020-03-28T19:10:39Z|jdalton6|None||Design and Implement Title Screen
+|cs340-20/nBox|18|closed|2020-04-16T01:16:16Z|jdalton6|2020-05-09T07:00:00Z||Implement title screen graphics
+|cs340-20/nBox|17|open|2020-04-14T04:04:36Z|tjames17|2020-04-18T07:00:00Z||Bugfix/Polish Blackjack 
+|cs340-20/nBox|16|open|2020-04-14T03:59:26Z|tjames17|2020-04-17T07:00:00Z||Implement more basic tutorials
+|cs340-20/nBox|15|closed|2020-04-14T03:57:42Z|tjames17|2020-04-10T07:00:00Z||implement basic tutorials
+|cs340-20/nBox|14|closed|2020-04-16T01:14:01Z|jdalton6|None||Design and Implement Title Screen
 |cs340-20/nBox|13|closed|2020-04-04T02:28:33Z|tjames17|2020-04-03T07:00:00Z||Fix ascii text/update blackjack startup
 |cs340-20/nBox|12|closed|2020-02-27T15:34:05Z|jdalton6|None||add pacman
 |cs340-20/nBox|11|closed|2020-02-26T15:41:23Z|jdalton6|None||Integrate Circle Dash into main menu
@@ -203,7 +213,7 @@
 |cs340-20/nBox|7|closed|2020-02-13T22:23:04Z|tjames17|None||Loop Blackjack and Add Quit Condition
 |cs340-20/nBox|6|closed|2020-03-19T18:10:03Z|jdalton6|None||Modify main_menu to read in games from text file.
 |cs340-20/nBox|5|closed|2020-02-26T16:36:49Z|jdalton6|None||Implement Pong-like Game
-|cs340-20/nBox|4|closed|2020-02-26T19:04:12Z||None||Ncurses Playing Card Graphics for Blackjack
+|cs340-20/nBox|4|closed|2020-04-14T04:08:19Z|tjames17|None||Ncurses Playing Card Graphics for Blackjack
 |cs340-20/nBox|3|closed|2020-02-12T14:37:25Z|jdalton6|2020-02-14T08:00:00Z||Forking/exec within menu
-|cs340-20/nBox|2|closed|2020-02-11T02:15:48Z||2020-02-14T08:00:00Z||Game #1
+|cs340-20/nBox|2|closed|2020-04-14T04:08:41Z|tjames17|2020-02-14T08:00:00Z||Game #1
 |cs340-20/nBox|1|closed|2020-02-12T14:37:38Z|jdalton6|2020-02-14T08:00:00Z||Basic menu

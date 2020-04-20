@@ -1,11 +1,8 @@
 # No Issues assigned
 or no deadline for the milestone, or the issue is not assigned to a milestone
 
-    - Boostem
     - RephaelCongmon
-    - TimothymKrenz
     - cwhita11
-    - dnguye201
     - iqbo
     - jaredba
     - jbridg12utk
@@ -13,12 +10,8 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
     - jiuruzhu
     - johnpi1
     - lcourtn5
-    - mars3725
     - sammyawad1998
-    - tjames17
     - tnguye69
-    - tuckermiles70
-    - vickit144
     - zables
     - zyang37
 
@@ -26,22 +19,20 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |-|-|-|-|-|-|-|-|
 |cs340-20/ModusVivendi|15|open|2020-03-27T18:06:25Z|DustinCraig Jneville0815|2020-04-03T07:00:00Z||Finish the back-end
 |cs340-20/ModusVivendi|14|open|2020-03-27T18:05:44Z|clampe1 Kishan1029|2020-04-03T07:00:00Z||Finish cleaning up the front-end
-|cs340-20/Personnel-Management|14|open|2020-03-05T03:25:33Z||None||messaging front/back-end
-|cs340-20/Personnel-Management|13|open|2020-03-05T03:20:14Z||None||Events backend
+|cs340-20/Personnel-Management|14|open|2020-03-05T03:25:33Z||2020-04-05T07:00:00Z||messaging front/back-end
+|cs340-20/Personnel-Management|13|open|2020-03-05T03:20:14Z||2020-03-16T07:00:00Z||Events backend
 |cs340-20/Personnel-Management|7|open|2020-02-26T14:04:35Z|chowar32|2020-04-24T07:00:00Z||Login options
-|cs340-20/Personnel-Management|5|open|2020-01-29T15:06:15Z|TimothymKrenz|None||Messaging: Front End
-|cs340-20/Whirl|79|open|2020-04-13T01:05:22Z||None||Create way to add rides to Firestore DB
-|cs340-20/Whirl|78|open|2020-04-13T00:53:24Z|tuckermiles70|None||Show ride details when location is tapped
-|cs340-20/Whirl|77|open|2020-03-11T13:10:42Z|tuckermiles70|None||Potentially change to circle avatar on profile page
-|cs340-20/Whirl|76|open|2020-03-11T03:23:03Z||None||Populate profile page ride list with data from Firestore DB
-|cs340-20/Whirl|75|open|2020-03-10T21:26:18Z||None||Update app launcher icon
-|cs340-20/Whirl|73|open|2020-03-10T14:15:55Z||None||Splash screen
+|cs340-20/Personnel-Management|5|open|2020-01-29T15:06:15Z|TimothymKrenz|2020-04-05T07:00:00Z||Messaging: Front End
+|cs340-20/Whirl|80|open|2020-04-20T04:11:38Z|mars3725 tuckermiles70 vickit144|2020-04-24T07:00:00Z||Final Report
+|cs340-20/Whirl|79|open|2020-04-19T21:44:51Z|mars3725|2020-04-24T07:00:00Z||Create way to add rides to Firestore DB
+|cs340-20/Whirl|73|open|2020-04-18T04:57:42Z|vickit144 dnguye201|2020-04-24T07:00:00Z||Splash screen
 |cs340-20/PhysicalQt|4|open|2020-03-25T15:23:51Z||2020-04-04T07:00:00Z|,enhancement|Add a drop down list for choosing exercises
 |cs340-20/PhysicalQt|3|open|2020-04-06T15:03:47Z||2020-04-04T07:00:00Z|,enhancement|Add function to butttoms 
 |cs340-20/PhysicalQt|2|open|2020-03-25T15:22:20Z|vjsrinivas|2020-04-04T07:00:00Z|,enhancement|Implement evaluation over range of frames
 |cs340-20/PhysicalQt|1|open|2020-04-06T15:05:43Z|vjsrinivas|2020-04-04T07:00:00Z|,bug|Fixing Scale Issue
+|cs340-20/InstantMessengerBot|28|open|2020-04-18T22:30:34Z|Boostem Tristen-Finley jtue|2020-04-23T07:00:00Z|,documentation|Create function/bot documentation.
 |cs340-20/InstantMessengerBot|25|open|2020-03-09T13:46:12Z|Boostem Tristen-Finley jtue|None|,Bot,QOL|help functions 
-|cs340-20/InstantMessengerBot|23|open|2020-03-07T20:17:17Z|Tristen-Finley|2020-03-08T08:00:00Z|,Moderator|kick/ban/timeout functions
+|cs340-20/InstantMessengerBot|23|open|2020-04-18T22:27:07Z|Tristen-Finley|2020-03-08T08:00:00Z|,Moderator|kick/ban/timeout functions
 |cs340-20/InstantMessengerBot|15|open|2020-03-06T02:09:01Z|jtue|2020-03-08T08:00:00Z|,Bot,QOL|Add/Create text channels with a command
 |cs340-20/InstantMessengerBot|11|open|2020-02-12T22:36:12Z|Boostem Tristen-Finley jtue|None|,QOL|Squad Up
 |cs340-20/InstantMessengerBot|5|open|2020-02-01T22:41:47Z|Boostem Tristen-Finley jtue|None|,Moderator|Remove attempted phishing/scam links
@@ -67,9 +58,8 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |cs340-20/CivilizationSimulator|5|open|2020-02-07T14:53:01Z|lcourtn5 iqbo zables|None||Random rules (basic)
 |cs340-20/CivilizationSimulator|4|open|2020-02-20T15:16:35Z|lcourtn5 iqbo zables|None||Death Rules (Basic)
 |cs340-20/KnitKnack|22|open|2020-04-08T13:20:56Z|llocke2|2020-04-10T07:00:00Z||Update Readme.md/Final report
-|cs340-20/KnitKnack|21|open|2020-04-08T13:21:10Z|llocke2|2020-04-10T07:00:00Z||UI Updates
 |cs340-20/KnitKnack|12|open|2020-04-08T13:25:05Z|TSenter szimmer9 cparm11|2020-04-10T07:00:00Z|,enhancement|Finish stitch counter page layout and functionality
 |cs340-20/KnitKnack|10|open|2020-03-25T13:14:23Z|TSenter Horseburgh|2020-04-10T07:00:00Z|,enhancement|Back end functionality for creating new project
-|cs340-20/nBox|15|open|2020-04-07T03:27:19Z|tjames17|None||implement basic tutorials
-|cs340-20/nBox|14|open|2020-03-28T19:10:39Z|jdalton6|None||Design and Implement Title Screen
+|cs340-20/nBox|17|open|2020-04-14T04:04:36Z|tjames17|2020-04-18T07:00:00Z||Bugfix/Polish Blackjack 
+|cs340-20/nBox|16|open|2020-04-14T03:59:26Z|tjames17|2020-04-17T07:00:00Z||Implement more basic tutorials
 |cs340-20/nBox|9|open|2020-02-13T20:11:06Z|jbridg12utk|None||Create an arcade style game for the suite
