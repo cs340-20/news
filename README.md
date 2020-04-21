@@ -15,6 +15,7 @@
         - Civilization Simulator at 9:05
 	- IMBot at 9:30AM 
         - PhysicalQt at 11AM 
+	- Personnel-Management at 12:30
    * Please schedule your presentation for Apr 20, 22, or 24
    * [Project final report instructions](https://github.com/cs340-20/lectures/blob/master/project_final_report.pdf)
    * [Milestone 6: Make and document your contribution is due](https://github.com/cs340-20/oss/milestone/4)
